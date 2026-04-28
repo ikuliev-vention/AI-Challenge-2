@@ -152,6 +152,18 @@
         "category": "Education",
         "date": "03-Nov-2025",
         "points": 8
+      },
+      {
+        "name": "[REG] Hogwarts Year-End Leadership Summit (10.10.25)",
+        "category": "Public Speaking",
+        "date": "10-Oct-2025",
+        "points": 16
+      },
+      {
+        "name": "[EDU] Sorting Hat: Automated Classification Systems (08.12.25)",
+        "category": "Education",
+        "date": "08-Dec-2025",
+        "points": 8
       }
     ]
   },
@@ -221,6 +233,18 @@
         "category": "Public Speaking",
         "date": "05-Nov-2025",
         "points": 16
+      },
+      {
+        "name": "[EDU] Iron Man Mark L: Advanced Testing Frameworks (22.10.25)",
+        "category": "Education",
+        "date": "22-Oct-2025",
+        "points": 16
+      },
+      {
+        "name": "[EDU] JARVIS Retrospective: AI in QA (17.12.25)",
+        "category": "Education",
+        "date": "17-Dec-2025",
+        "points": 8
       }
     ]
   },
@@ -290,6 +314,18 @@
         "category": "Education",
         "date": "30-Oct-2025",
         "points": 16
+      },
+      {
+        "name": "[REG] Iron Throne Q4 Engineering Forum (13.11.25)",
+        "category": "Public Speaking",
+        "date": "13-Nov-2025",
+        "points": 16
+      },
+      {
+        "name": "[EDU] Dragon Scale: Performance Profiling Workshop (09.12.25)",
+        "category": "Education",
+        "date": "09-Dec-2025",
+        "points": 8
       }
     ]
   },
@@ -353,6 +389,18 @@
         "category": "Education",
         "date": "10-Oct-2025",
         "points": 16
+      },
+      {
+        "name": "[REG] Themyscira Q4 Engineering Summit (06.11.25)",
+        "category": "Public Speaking",
+        "date": "06-Nov-2025",
+        "points": 16
+      },
+      {
+        "name": "[EDU] Amazonian DevOps: Resilience Patterns (18.12.25)",
+        "category": "Education",
+        "date": "18-Dec-2025",
+        "points": 8
       }
     ]
   },
@@ -416,6 +464,18 @@
         "category": "Public Speaking",
         "date": "11-Nov-2025",
         "points": 8
+      },
+      {
+        "name": "[EDU] Deduction Engine: ML Anomaly Detection (20.10.25)",
+        "category": "Education",
+        "date": "20-Oct-2025",
+        "points": 16
+      },
+      {
+        "name": "[LAB] The Final Problem: Root Cause Analysis Lab (15.12.25)",
+        "category": "Education",
+        "date": "15-Dec-2025",
+        "points": 8
       }
     ]
   },
@@ -473,6 +533,18 @@
         "category": "Public Speaking",
         "date": "14-Oct-2025",
         "points": 16
+      },
+      {
+        "name": "[EDU] 900 Years of Knowledge: Year-End Review (12.11.25)",
+        "category": "Education",
+        "date": "12-Nov-2025",
+        "points": 16
+      },
+      {
+        "name": "[EDU] Patience and Planning: Q4 Retrospective Workshop (10.12.25)",
+        "category": "Education",
+        "date": "10-Dec-2025",
+        "points": 8
       }
     ]
   },
@@ -536,6 +608,18 @@
         "category": "Public Speaking",
         "date": "17-Nov-2025",
         "points": 16
+      },
+      {
+        "name": "[EDU] No One's Bug is Safe: Advanced Triage (28.10.25)",
+        "category": "Education",
+        "date": "28-Oct-2025",
+        "points": 16
+      },
+      {
+        "name": "[EDU] Winter is Coming: Preparing Q1 Test Plans (16.12.25)",
+        "category": "Education",
+        "date": "16-Dec-2025",
+        "points": 8
       }
     ]
   },
@@ -599,6 +683,18 @@
         "category": "Public Speaking",
         "date": "29-Oct-2025",
         "points": 16
+      },
+      {
+        "name": "[EDU] Shire to Mordor: End-to-End Testing Strategies (20.11.25)",
+        "category": "Education",
+        "date": "20-Nov-2025",
+        "points": 16
+      },
+      {
+        "name": "[EDU] Return of the Test: Regression Best Practices (11.12.25)",
+        "category": "Education",
+        "date": "11-Dec-2025",
+        "points": 8
       }
     ]
   },
@@ -656,6 +752,18 @@
         "category": "Public Speaking",
         "date": "03-Nov-2025",
         "points": 16
+      },
+      {
+        "name": "[EDU] Spider-Web Architecture: Distributed Systems (17.10.25)",
+        "category": "Education",
+        "date": "17-Oct-2025",
+        "points": 16
+      },
+      {
+        "name": "[EDU] Friendly Neighborhood Code Review (12.12.25)",
+        "category": "Education",
+        "date": "12-Dec-2025",
+        "points": 8
       }
     ]
   },
@@ -769,6 +877,18 @@
         "name": "[REG] Gondor Developer Days Talk (21.11.25)",
         "category": "Public Speaking",
         "date": "21-Nov-2025",
+        "points": 8
+      },
+      {
+        "name": "[EDU] Ent-Paced Refactoring: Steady Wins (09.10.25)",
+        "category": "Education",
+        "date": "09-Oct-2025",
+        "points": 16
+      },
+      {
+        "name": "[EDU] One Does Not Simply Skip Code Review (04.12.25)",
+        "category": "Education",
+        "date": "04-Dec-2025",
         "points": 8
       }
     ]
