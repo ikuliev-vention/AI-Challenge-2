@@ -66,15 +66,15 @@ export default function Leaderboard() {
     // Sort descending by filteredTotal
     nonZero.sort((a, b) => b.filteredTotal - a.filteredTotal);
 
-    // Apply search filter (after sort, before rank)
-    const searched = search.trim()
-      ? nonZero.filter((emp) =>
+    // Add rank (1-indexed, based on sorted order before name search)
+    const ranked = nonZero.map((emp, idx) => ({ ...emp, rank: idx + 1 }));
+
+    // Apply search filter as the final step
+    return search.trim()
+      ? ranked.filter((emp) =>
           emp.name.toLowerCase().includes(search.trim().toLowerCase())
         )
-      : nonZero;
-
-    // Add rank (1-indexed)
-    return searched.map((emp, idx) => ({ ...emp, rank: idx + 1 }));
+      : ranked;
   }, [year, quarter, category, search]);
 
   const handleToggle = (id) => {
