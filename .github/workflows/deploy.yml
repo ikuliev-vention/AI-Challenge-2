@@ -16,7 +16,9 @@ jobs:
         with:
           node-version: 20
       - run: npm ci
+        working-directory: task-1/CompanyLeaderboard
       - run: npm run build
+        working-directory: task-1/CompanyLeaderboard
       - uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: dist
+          folder: task-1/CompanyLeaderboard/dist
