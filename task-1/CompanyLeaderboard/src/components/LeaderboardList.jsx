@@ -6,7 +6,7 @@ export default function LeaderboardList({ employees, expandedId, onToggle }) {
       {employees.map((emp, idx) => (
         <LeaderRow
           key={emp.id}
-          rank={idx + 1}
+          rank={emp.rank}
           employee={emp}
           isExpanded={expandedId === emp.id}
           onToggle={onToggle}

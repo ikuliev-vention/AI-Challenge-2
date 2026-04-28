@@ -63,17 +63,16 @@ export default function Leaderboard() {
     // Remove employees with 0 total
     const nonZero = mapped.filter((emp) => emp.filteredTotal > 0);
 
-    // Sort descending by filteredTotal
-    nonZero.sort((a, b) => b.filteredTotal - a.filteredTotal);
+    // Sort descending by filteredTotal, with name as tiebreaker
+    nonZero.sort((a, b) => b.filteredTotal - a.filteredTotal || a.name.localeCompare(b.name));
 
     // Add rank (1-indexed, based on sorted order before name search)
     const ranked = nonZero.map((emp, idx) => ({ ...emp, rank: idx + 1 }));
 
     // Apply search filter as the final step
-    return search.trim()
-      ? ranked.filter((emp) =>
-          emp.name.toLowerCase().includes(search.trim().toLowerCase())
-        )
+    const searchTerm = search.trim().toLowerCase();
+    return searchTerm
+      ? ranked.filter((emp) => emp.name.toLowerCase().includes(searchTerm))
       : ranked;
   }, [year, quarter, category, search]);
 

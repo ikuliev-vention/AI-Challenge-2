@@ -20,7 +20,7 @@ export default function ActivityTable({ activities }) {
         </thead>
         <tbody>
           {activities.map((activity, idx) => (
-            <tr key={idx} className="border-t border-gray-100">
+            <tr key={`${activity.date}-${activity.name}`} className="border-t border-gray-100">
               <td className="py-1 pr-4 text-gray-600 text-left">{activity.name}</td>
               <td className="py-1 pr-4">
                 <span className={CATEGORY_BADGE[activity.category] || DEFAULT_BADGE}>
