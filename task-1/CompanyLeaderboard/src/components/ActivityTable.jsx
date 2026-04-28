@@ -19,7 +19,7 @@ export default function ActivityTable({ activities }) {
           </tr>
         </thead>
         <tbody>
-          {activities.map((activity, idx) => (
+          {activities.map((activity) => (
             <tr key={`${activity.date}-${activity.name}`} className="border-t border-gray-100">
               <td className="py-1 pr-4 text-gray-600 text-left">{activity.name}</td>
               <td className="py-1 pr-4">
