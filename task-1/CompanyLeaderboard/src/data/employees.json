@@ -1,0 +1,959 @@
+[
+  {
+    "id": 1,
+    "name": "Luke Skywalker",
+    "title": "Senior Software Engineer",
+    "orgCode": "SK.U1.D1.G1",
+    "avatarSeed": "lukeskywalker",
+    "activities": [
+      {
+        "name": "[EDU] Force Sensitivity Workshop (15.01.25)",
+        "category": "Education",
+        "date": "15-Jan-2025",
+        "points": 64
+      },
+      {
+        "name": "[LAB] Lightsaber Combat Algorithm Lab (22.01.25)",
+        "category": "Education",
+        "date": "22-Jan-2025",
+        "points": 32
+      },
+      {
+        "name": "[REG] Jedi Academy Conference Talk (10.02.25)",
+        "category": "Public Speaking",
+        "date": "10-Feb-2025",
+        "points": 64
+      },
+      {
+        "name": "[EDU] X-Wing Navigation Systems Course (05.03.25)",
+        "category": "Education",
+        "date": "05-Mar-2025",
+        "points": 32
+      },
+      {
+        "name": "[LAB] Rebel Alliance Strategy Workshop (18.04.25)",
+        "category": "Education",
+        "date": "18-Apr-2025",
+        "points": 64
+      },
+      {
+        "name": "[REG] Galactic Summit Keynote (12.05.25)",
+        "category": "Public Speaking",
+        "date": "12-May-2025",
+        "points": 64
+      },
+      {
+        "name": "[EDU] The Force and Clean Code (03.06.25)",
+        "category": "Education",
+        "date": "03-Jun-2025",
+        "points": 32
+      },
+      {
+        "name": "[LAB] Death Star Vulnerability Analysis (14.07.25)",
+        "category": "Education",
+        "date": "14-Jul-2025",
+        "points": 64
+      },
+      {
+        "name": "[REG] Tech Talk: Distributed Systems in the Outer Rim (20.08.25)",
+        "category": "Public Speaking",
+        "date": "20-Aug-2025",
+        "points": 32
+      },
+      {
+        "name": "[EDU] Jedi Mind Tricks for Agile Teams (09.09.25)",
+        "category": "Education",
+        "date": "09-Sep-2025",
+        "points": 32
+      },
+      {
+        "name": "[LAB] Hyperdrive Route Optimization Lab (15.10.25)",
+        "category": "Education",
+        "date": "15-Oct-2025",
+        "points": 32
+      },
+      {
+        "name": "[REG] Rebel Tech Symposium Keynote (18.11.25)",
+        "category": "Public Speaking",
+        "date": "18-Nov-2025",
+        "points": 32
+      },
+      {
+        "name": "[EDU] Force Academy Advanced Workshop (18.12.25)",
+        "category": "Education",
+        "date": "18-Dec-2025",
+        "points": 16
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Hermione Granger",
+    "title": "Group Manager",
+    "orgCode": "BY.U1.D3.G3",
+    "avatarSeed": "hermionegranger",
+    "activities": [
+      {
+        "name": "[EDU] Spells & Algorithms: A Magical Introduction (08.01.25)",
+        "category": "Education",
+        "date": "08-Jan-2025",
+        "points": 64
+      },
+      {
+        "name": "[LAB] Time-Turner Project Management Lab (20.02.25)",
+        "category": "Education",
+        "date": "20-Feb-2025",
+        "points": 32
+      },
+      {
+        "name": "[REG] Wizarding World Leadership Summit (14.03.25)",
+        "category": "Public Speaking",
+        "date": "14-Mar-2025",
+        "points": 32
+      },
+      {
+        "name": "[LAB] Mentoring of Harry Potter Lab (22.04.25)",
+        "category": "Education",
+        "date": "22-Apr-2025",
+        "points": 64
+      },
+      {
+        "name": "[EDU] S.P.E.W.: Ethical Tech Practices (10.05.25)",
+        "category": "Education",
+        "date": "10-May-2025",
+        "points": 32
+      },
+      {
+        "name": "[REG] Hogwarts Tech Conference Talk (25.06.25)",
+        "category": "Public Speaking",
+        "date": "25-Jun-2025",
+        "points": 32
+      },
+      {
+        "name": "[EDU] Arithmancy and Data Science (08.07.25)",
+        "category": "Education",
+        "date": "08-Jul-2025",
+        "points": 16
+      },
+      {
+        "name": "[LAB] Potions to Production: CI/CD Lab (19.08.25)",
+        "category": "Education",
+        "date": "19-Aug-2025",
+        "points": 32
+      },
+      {
+        "name": "[REG] Ministry of Magic DevOps Talk (12.09.25)",
+        "category": "Public Speaking",
+        "date": "12-Sep-2025",
+        "points": 16
+      },
+      {
+        "name": "[EDU] Advanced Enchantments in System Design (03.11.25)",
+        "category": "Education",
+        "date": "03-Nov-2025",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Tony Stark",
+    "title": "Lead QA Engineer",
+    "orgCode": "SK.U1.D1.G1.T1",
+    "avatarSeed": "tonystark",
+    "activities": [
+      {
+        "name": "[REG] Stark Expo 2025 Keynote (14.01.25)",
+        "category": "Public Speaking",
+        "date": "14-Jan-2025",
+        "points": 64
+      },
+      {
+        "name": "[LAB] Arc Reactor Performance Testing Lab (05.02.25)",
+        "category": "Education",
+        "date": "05-Feb-2025",
+        "points": 64
+      },
+      {
+        "name": "[EDU] Iron Man Suit Integration Testing (25.02.25)",
+        "category": "Education",
+        "date": "25-Feb-2025",
+        "points": 32
+      },
+      {
+        "name": "[REG] Avengers Tech Summit Talk (11.04.25)",
+        "category": "Public Speaking",
+        "date": "11-Apr-2025",
+        "points": 32
+      },
+      {
+        "name": "[LAB] AI-Powered QA Automation Lab (28.05.25)",
+        "category": "Education",
+        "date": "28-May-2025",
+        "points": 32
+      },
+      {
+        "name": "[EDU] JARVIS System Reliability Engineering (17.06.25)",
+        "category": "Education",
+        "date": "17-Jun-2025",
+        "points": 32
+      },
+      {
+        "name": "[REG] Stark Industries Innovation Forum (22.07.25)",
+        "category": "Public Speaking",
+        "date": "22-Jul-2025",
+        "points": 32
+      },
+      {
+        "name": "[LAB] Repulsor Tech Load Testing Lab (15.08.25)",
+        "category": "Education",
+        "date": "15-Aug-2025",
+        "points": 16
+      },
+      {
+        "name": "[EDU] Quality at the Speed of Light (30.09.25)",
+        "category": "Education",
+        "date": "30-Sep-2025",
+        "points": 16
+      },
+      {
+        "name": "[REG] Silicon Valley QA Conference (05.11.25)",
+        "category": "Public Speaking",
+        "date": "05-Nov-2025",
+        "points": 16
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Daenerys Targaryen",
+    "title": "Lead QA Engineer",
+    "orgCode": "SK.U1.D1.G1.T1",
+    "avatarSeed": "daenerystargaryen",
+    "activities": [
+      {
+        "name": "[EDU] Dragon Deployment Strategies (12.01.25)",
+        "category": "Education",
+        "date": "12-Jan-2025",
+        "points": 64
+      },
+      {
+        "name": "[LAB] Fire and Regression Testing Lab (19.02.25)",
+        "category": "Education",
+        "date": "19-Feb-2025",
+        "points": 64
+      },
+      {
+        "name": "[REG] Iron Throne QA Summit Keynote (07.03.25)",
+        "category": "Public Speaking",
+        "date": "07-Mar-2025",
+        "points": 32
+      },
+      {
+        "name": "[EDU] Westeros Release Management Course (16.04.25)",
+        "category": "Education",
+        "date": "16-Apr-2025",
+        "points": 32
+      },
+      {
+        "name": "[LAB] Dothraki Performance Testing Lab (09.05.25)",
+        "category": "Education",
+        "date": "09-May-2025",
+        "points": 32
+      },
+      {
+        "name": "[REG] Meereen Tech Conference Talk (24.06.25)",
+        "category": "Public Speaking",
+        "date": "24-Jun-2025",
+        "points": 32
+      },
+      {
+        "name": "[EDU] Seven Kingdoms System Architecture (18.07.25)",
+        "category": "Education",
+        "date": "18-Jul-2025",
+        "points": 16
+      },
+      {
+        "name": "[LAB] Dragon Glass Bug Detection Lab (26.08.25)",
+        "category": "Education",
+        "date": "26-Aug-2025",
+        "points": 32
+      },
+      {
+        "name": "[REG] Breaker of Bugs: QA Leadership Talk (11.09.25)",
+        "category": "Public Speaking",
+        "date": "11-Sep-2025",
+        "points": 16
+      },
+      {
+        "name": "[EDU] Night Watch Monitoring & Alerting (30.10.25)",
+        "category": "Education",
+        "date": "30-Oct-2025",
+        "points": 16
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Diana Prince",
+    "title": "QA Engineer",
+    "orgCode": "BY.U1.D2.QA2.T1",
+    "avatarSeed": "dianaprince",
+    "activities": [
+      {
+        "name": "[REG] Themyscira DevOps Summit Talk (09.01.25)",
+        "category": "Public Speaking",
+        "date": "09-Jan-2025",
+        "points": 64
+      },
+      {
+        "name": "[LAB] Lasso of Truth: Debugging Best Practices (28.01.25)",
+        "category": "Education",
+        "date": "28-Jan-2025",
+        "points": 32
+      },
+      {
+        "name": "[EDU] Wonder Woman QA Fundamentals (14.02.25)",
+        "category": "Education",
+        "date": "14-Feb-2025",
+        "points": 64
+      },
+      {
+        "name": "[REG] Justice League Tech Forum (20.03.25)",
+        "category": "Public Speaking",
+        "date": "20-Mar-2025",
+        "points": 32
+      },
+      {
+        "name": "[LAB] Aegis Shield Penetration Testing Lab (15.04.25)",
+        "category": "Education",
+        "date": "15-Apr-2025",
+        "points": 32
+      },
+      {
+        "name": "[EDU] Amazonian Code Review Techniques (30.05.25)",
+        "category": "Education",
+        "date": "30-May-2025",
+        "points": 32
+      },
+      {
+        "name": "[REG] DC Universe Engineering Conference (18.07.25)",
+        "category": "Public Speaking",
+        "date": "18-Jul-2025",
+        "points": 16
+      },
+      {
+        "name": "[LAB] Invisible Jet API Testing Lab (25.08.25)",
+        "category": "Education",
+        "date": "25-Aug-2025",
+        "points": 16
+      },
+      {
+        "name": "[EDU] Warrior Princess Test Automation (10.10.25)",
+        "category": "Education",
+        "date": "10-Oct-2025",
+        "points": 16
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Sherlock Holmes",
+    "title": "Software Engineer",
+    "orgCode": "BY.U1.D1.G2",
+    "avatarSeed": "sherlockholmes",
+    "activities": [
+      {
+        "name": "[EDU] Deductive Reasoning in Code Review (06.01.25)",
+        "category": "Education",
+        "date": "06-Jan-2025",
+        "points": 64
+      },
+      {
+        "name": "[LAB] Baker Street Algorithm Workshop (21.02.25)",
+        "category": "Education",
+        "date": "21-Feb-2025",
+        "points": 64
+      },
+      {
+        "name": "[REG] London Tech Summit: The Art of Debugging (13.03.25)",
+        "category": "Public Speaking",
+        "date": "13-Mar-2025",
+        "points": 32
+      },
+      {
+        "name": "[EDU] Elementary Data Structures (04.04.25)",
+        "category": "Education",
+        "date": "04-Apr-2025",
+        "points": 32
+      },
+      {
+        "name": "[LAB] Moriarty: Security Threat Modeling Lab (22.05.25)",
+        "category": "Education",
+        "date": "22-May-2025",
+        "points": 32
+      },
+      {
+        "name": "[REG] The Science of Deduction Conference (10.06.25)",
+        "category": "Public Speaking",
+        "date": "10-Jun-2025",
+        "points": 32
+      },
+      {
+        "name": "[EDU] Pattern Recognition in Log Analysis (08.08.25)",
+        "category": "Education",
+        "date": "08-Aug-2025",
+        "points": 16
+      },
+      {
+        "name": "[LAB] Irene Adler UX Research Lab (23.09.25)",
+        "category": "Education",
+        "date": "23-Sep-2025",
+        "points": 16
+      },
+      {
+        "name": "[REG] 221B Baker Street DevFest Talk (11.11.25)",
+        "category": "Public Speaking",
+        "date": "11-Nov-2025",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Yoda",
+    "title": "HR Manager",
+    "orgCode": "TGU.TAD.SO",
+    "avatarSeed": "yoda",
+    "activities": [
+      {
+        "name": "[EDU] Patience and Onboarding: A Jedi's Approach (11.01.25)",
+        "category": "Education",
+        "date": "11-Jan-2025",
+        "points": 64
+      },
+      {
+        "name": "[REG] Dagobah HR Leadership Summit (28.02.25)",
+        "category": "Public Speaking",
+        "date": "28-Feb-2025",
+        "points": 64
+      },
+      {
+        "name": "[LAB] Young Padawan Mentorship Lab (17.03.25)",
+        "category": "Education",
+        "date": "17-Mar-2025",
+        "points": 32
+      },
+      {
+        "name": "[EDU] Force-Balanced Performance Reviews (07.05.25)",
+        "category": "Education",
+        "date": "07-May-2025",
+        "points": 32
+      },
+      {
+        "name": "[REG] The High Council People Management Talk (19.06.25)",
+        "category": "Public Speaking",
+        "date": "19-Jun-2025",
+        "points": 32
+      },
+      {
+        "name": "[LAB] Wisdom and Conflict Resolution Lab (11.07.25)",
+        "category": "Education",
+        "date": "11-Jul-2025",
+        "points": 32
+      },
+      {
+        "name": "[EDU] 900 Years of Engineering Culture (03.09.25)",
+        "category": "Education",
+        "date": "03-Sep-2025",
+        "points": 16
+      },
+      {
+        "name": "[REG] Endor Diversity & Inclusion Talk (14.10.25)",
+        "category": "Public Speaking",
+        "date": "14-Oct-2025",
+        "points": 16
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Arya Stark",
+    "title": "Senior QA Engineer",
+    "orgCode": "IPSD.Services",
+    "avatarSeed": "aryastark",
+    "activities": [
+      {
+        "name": "[LAB] Faceless Bug Hunter Lab (13.01.25)",
+        "category": "Education",
+        "date": "13-Jan-2025",
+        "points": 64
+      },
+      {
+        "name": "[EDU] Needle-Precise Test Cases (24.02.25)",
+        "category": "Education",
+        "date": "24-Feb-2025",
+        "points": 32
+      },
+      {
+        "name": "[REG] A Girl Has a Name: Brandsmanship in QA (06.03.25)",
+        "category": "Public Speaking",
+        "date": "06-Mar-2025",
+        "points": 32
+      },
+      {
+        "name": "[LAB] Assassin's Approach to Pen Testing (10.04.25)",
+        "category": "Education",
+        "date": "10-Apr-2025",
+        "points": 64
+      },
+      {
+        "name": "[EDU] Braavos Test Academy (29.05.25)",
+        "category": "Education",
+        "date": "29-May-2025",
+        "points": 32
+      },
+      {
+        "name": "[REG] Winterfell Quality Assurance Symposium (14.06.25)",
+        "category": "Public Speaking",
+        "date": "14-Jun-2025",
+        "points": 16
+      },
+      {
+        "name": "[LAB] Water Dancing Performance Testing Lab (21.07.25)",
+        "category": "Education",
+        "date": "21-Jul-2025",
+        "points": 16
+      },
+      {
+        "name": "[EDU] The Kill List: Critical Bug Triage (09.09.25)",
+        "category": "Education",
+        "date": "09-Sep-2025",
+        "points": 16
+      },
+      {
+        "name": "[REG] Stark Industries QA Forum (17.11.25)",
+        "category": "Public Speaking",
+        "date": "17-Nov-2025",
+        "points": 16
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Frodo Baggins",
+    "title": "QA Engineer",
+    "orgCode": "BY.U1.D2.QA2.T1",
+    "avatarSeed": "frodobaggins",
+    "activities": [
+      {
+        "name": "[EDU] The Fellowship of the Test Suite (16.01.25)",
+        "category": "Education",
+        "date": "16-Jan-2025",
+        "points": 64
+      },
+      {
+        "name": "[LAB] One Ring to Rule All Regression Tests (07.02.25)",
+        "category": "Education",
+        "date": "07-Feb-2025",
+        "points": 64
+      },
+      {
+        "name": "[REG] Shire DevFest Lightning Talk (28.03.25)",
+        "category": "Public Speaking",
+        "date": "28-Mar-2025",
+        "points": 32
+      },
+      {
+        "name": "[EDU] Long Road to Mount Doom CI/CD (08.04.25)",
+        "category": "Education",
+        "date": "08-Apr-2025",
+        "points": 32
+      },
+      {
+        "name": "[LAB] Mordor Environment Setup Lab (21.05.25)",
+        "category": "Education",
+        "date": "21-May-2025",
+        "points": 32
+      },
+      {
+        "name": "[REG] Rivendell Architecture Talk (26.06.25)",
+        "category": "Public Speaking",
+        "date": "26-Jun-2025",
+        "points": 16
+      },
+      {
+        "name": "[EDU] There and Back Again: Bug Lifecycle (10.07.25)",
+        "category": "Education",
+        "date": "10-Jul-2025",
+        "points": 16
+      },
+      {
+        "name": "[LAB] Mithril Armoring: Security Testing Lab (06.08.25)",
+        "category": "Education",
+        "date": "06-Aug-2025",
+        "points": 16
+      },
+      {
+        "name": "[REG] Middle-earth QA Conference (29.10.25)",
+        "category": "Public Speaking",
+        "date": "29-Oct-2025",
+        "points": 16
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Peter Parker",
+    "title": "Senior Software Engineer",
+    "orgCode": "SK.U1.D2.G1",
+    "avatarSeed": "peterparker",
+    "activities": [
+      {
+        "name": "[EDU] With Great Power Comes Great Code Quality (20.01.25)",
+        "category": "Education",
+        "date": "20-Jan-2025",
+        "points": 64
+      },
+      {
+        "name": "[LAB] Spider-Sense Driven Development Lab (11.02.25)",
+        "category": "Education",
+        "date": "11-Feb-2025",
+        "points": 32
+      },
+      {
+        "name": "[REG] Daily Bugle Tech Talk (19.03.25)",
+        "category": "Public Speaking",
+        "date": "19-Mar-2025",
+        "points": 32
+      },
+      {
+        "name": "[EDU] Web-Slinging Web Services (25.04.25)",
+        "category": "Education",
+        "date": "25-Apr-2025",
+        "points": 32
+      },
+      {
+        "name": "[LAB] Oscorp API Integration Lab (12.06.25)",
+        "category": "Education",
+        "date": "12-Jun-2025",
+        "points": 32
+      },
+      {
+        "name": "[REG] Queens Engineering Meetup Talk (22.07.25)",
+        "category": "Public Speaking",
+        "date": "22-Jul-2025",
+        "points": 32
+      },
+      {
+        "name": "[EDU] Multiverse Microservices Architecture (15.08.25)",
+        "category": "Education",
+        "date": "15-Aug-2025",
+        "points": 16
+      },
+      {
+        "name": "[REG] Avengers Campus DevFest Talk (03.11.25)",
+        "category": "Public Speaking",
+        "date": "03-Nov-2025",
+        "points": 16
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Leia Organa",
+    "title": "Lead QA Engineer",
+    "orgCode": "SK.U1.D2.G1.T1",
+    "avatarSeed": "leiaorgana",
+    "activities": [
+      {
+        "name": "[EDU] Resistance Leadership and Code Standards (17.01.25)",
+        "category": "Education",
+        "date": "17-Jan-2025",
+        "points": 64
+      },
+      {
+        "name": "[REG] Alderaan Tech Summit Keynote (03.03.25)",
+        "category": "Public Speaking",
+        "date": "03-Mar-2025",
+        "points": 32
+      },
+      {
+        "name": "[LAB] Death Star Blueprints: System Architecture Lab (08.04.25)",
+        "category": "Education",
+        "date": "08-Apr-2025",
+        "points": 64
+      },
+      {
+        "name": "[EDU] Rebel Alliance QA Certification (23.05.25)",
+        "category": "Education",
+        "date": "23-May-2025",
+        "points": 32
+      },
+      {
+        "name": "[REG] Yavin IV Victory Conference Talk (30.06.25)",
+        "category": "Public Speaking",
+        "date": "30-Jun-2025",
+        "points": 16
+      },
+      {
+        "name": "[LAB] Mon Calamari Stress Testing Lab (07.08.25)",
+        "category": "Education",
+        "date": "07-Aug-2025",
+        "points": 16
+      },
+      {
+        "name": "[EDU] New Republic Release Process (11.10.25)",
+        "category": "Education",
+        "date": "11-Oct-2025",
+        "points": 16
+      },
+      {
+        "name": "[REG] Hoth Developer Summit Talk (05.12.25)",
+        "category": "Public Speaking",
+        "date": "05-Dec-2025",
+        "points": 16
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Samwise Gamgee",
+    "title": "Software Engineer",
+    "orgCode": "BY.U1.D1.G2",
+    "avatarSeed": "samwisegamgee",
+    "activities": [
+      {
+        "name": "[EDU] Gardening Principles in Clean Code (23.01.25)",
+        "category": "Education",
+        "date": "23-Jan-2025",
+        "points": 64
+      },
+      {
+        "name": "[LAB] Lembas Bread: Lightweight Microservices Lab (06.02.25)",
+        "category": "Education",
+        "date": "06-Feb-2025",
+        "points": 32
+      },
+      {
+        "name": "[REG] Bag End Developer Meetup Talk (22.03.25)",
+        "category": "Public Speaking",
+        "date": "22-Mar-2025",
+        "points": 32
+      },
+      {
+        "name": "[EDU] Carry the Load: Legacy Code Maintenance (14.05.25)",
+        "category": "Education",
+        "date": "14-May-2025",
+        "points": 32
+      },
+      {
+        "name": "[LAB] Taters: Data Processing Lab (27.06.25)",
+        "category": "Education",
+        "date": "27-Jun-2025",
+        "points": 32
+      },
+      {
+        "name": "[REG] Shire Hobbit-hole Engineering Summit (09.07.25)",
+        "category": "Public Speaking",
+        "date": "09-Jul-2025",
+        "points": 16
+      },
+      {
+        "name": "[EDU] Friendship-Driven Development (18.09.25)",
+        "category": "Education",
+        "date": "18-Sep-2025",
+        "points": 8
+      },
+      {
+        "name": "[REG] Gondor Developer Days Talk (21.11.25)",
+        "category": "Public Speaking",
+        "date": "21-Nov-2025",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Katniss Everdeen",
+    "title": "QA Engineer",
+    "orgCode": "BY.U1.D2.QA2.T1",
+    "avatarSeed": "katnisseverdeen",
+    "activities": [
+      {
+        "name": "[EDU] Hunger Games: Competitive Code Review (27.01.25)",
+        "category": "Education",
+        "date": "27-Jan-2025",
+        "points": 64
+      },
+      {
+        "name": "[REG] District 12 Dev Summit Keynote (13.02.25)",
+        "category": "Public Speaking",
+        "date": "13-Feb-2025",
+        "points": 32
+      },
+      {
+        "name": "[LAB] Arrow-Accurate Test Coverage Lab (24.04.25)",
+        "category": "Education",
+        "date": "24-Apr-2025",
+        "points": 32
+      },
+      {
+        "name": "[EDU] Capitol Compliance Testing (16.05.25)",
+        "category": "Education",
+        "date": "16-May-2025",
+        "points": 32
+      },
+      {
+        "name": "[REG] Mockingjay Open Source Talk (23.07.25)",
+        "category": "Public Speaking",
+        "date": "23-Jul-2025",
+        "points": 16
+      },
+      {
+        "name": "[LAB] Survival Skills: Incident Response Lab (28.08.25)",
+        "category": "Education",
+        "date": "28-Aug-2025",
+        "points": 16
+      },
+      {
+        "name": "[EDU] Victors and Technical Debt (07.10.25)",
+        "category": "Education",
+        "date": "07-Oct-2025",
+        "points": 8
+      },
+      {
+        "name": "[REG] Panem Developer Forum Talk (19.11.25)",
+        "category": "Public Speaking",
+        "date": "19-Nov-2025",
+        "points": 8
+      },
+      {
+        "name": "[LAB] Quarter Quell Regression Testing Lab (10.12.25)",
+        "category": "Education",
+        "date": "10-Dec-2025",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Spock",
+    "title": "Group Manager",
+    "orgCode": "BY.U1.D3.G4",
+    "avatarSeed": "spock",
+    "activities": [
+      {
+        "name": "[EDU] Logic-Driven Engineering Practices (04.02.25)",
+        "category": "Education",
+        "date": "04-Feb-2025",
+        "points": 64
+      },
+      {
+        "name": "[REG] Vulcan Science Academy Tech Talk (25.03.25)",
+        "category": "Public Speaking",
+        "date": "25-Mar-2025",
+        "points": 32
+      },
+      {
+        "name": "[LAB] Live Long and Prosper: SRE Lab (02.04.25)",
+        "category": "Education",
+        "date": "02-Apr-2025",
+        "points": 32
+      },
+      {
+        "name": "[EDU] Starfleet Architecture Patterns (20.06.25)",
+        "category": "Education",
+        "date": "20-Jun-2025",
+        "points": 32
+      },
+      {
+        "name": "[REG] USS Enterprise Engineering Summit (08.08.25)",
+        "category": "Public Speaking",
+        "date": "08-Aug-2025",
+        "points": 16
+      },
+      {
+        "name": "[LAB] Kobayashi Maru: Handling Unsolvable Bugs Lab (17.09.25)",
+        "category": "Education",
+        "date": "17-Sep-2025",
+        "points": 8
+      },
+      {
+        "name": "[REG] Federation Open Source Summit (22.10.25)",
+        "category": "Public Speaking",
+        "date": "22-Oct-2025",
+        "points": 8
+      },
+      {
+        "name": "[EDU] Infinite Diversity in Infinite Combinations: Inclusive Design (15.11.25)",
+        "category": "Education",
+        "date": "15-Nov-2025",
+        "points": 8
+      },
+      {
+        "name": "[LAB] Spock's Theorem: Mathematical Testing Lab (12.12.25)",
+        "category": "Education",
+        "date": "12-Dec-2025",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Arthur Dent",
+    "title": "QA Engineer",
+    "orgCode": "BY.U1.D2.QA2.T1",
+    "avatarSeed": "arthurdent",
+    "activities": [
+      {
+        "name": "[EDU] Don't Panic: Incident Management 101 (30.01.25)",
+        "category": "Education",
+        "date": "30-Jan-2025",
+        "points": 64
+      },
+      {
+        "name": "[REG] Hitchhiker's Guide to QA Talk (12.02.25)",
+        "category": "Public Speaking",
+        "date": "12-Feb-2025",
+        "points": 32
+      },
+      {
+        "name": "[LAB] 42: The Answer to All Test Cases Lab (18.04.25)",
+        "category": "Education",
+        "date": "18-Apr-2025",
+        "points": 32
+      },
+      {
+        "name": "[EDU] Mostly Harmless Smoke Testing (30.07.25)",
+        "category": "Education",
+        "date": "30-Jul-2025",
+        "points": 16
+      },
+      {
+        "name": "[REG] Magrathea Developer Days Talk (11.09.25)",
+        "category": "Public Speaking",
+        "date": "11-Sep-2025",
+        "points": 8
+      },
+      {
+        "name": "[LAB] Vogon Poetry: Writing Clear Bug Reports Lab (15.10.25)",
+        "category": "Education",
+        "date": "15-Oct-2025",
+        "points": 8
+      },
+      {
+        "name": "[EDU] Deep Thought: Data Analysis Fundamentals (10.11.25)",
+        "category": "Education",
+        "date": "10-Nov-2025",
+        "points": 8
+      },
+      {
+        "name": "[REG] Heart of Gold DevFest Talk (05.12.25)",
+        "category": "Public Speaking",
+        "date": "05-Dec-2025",
+        "points": 8
+      }
+    ]
+  }
+]
